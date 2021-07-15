@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const _ = require("lodash");
 
-const homeStartingContent = "Welcome to Aravs blog, Here you can see about me, my business and my services. You can feel free to express your thoughts through the contacts..";
+const homeStartingContent = "Welcome to Aravs blog, Here you can see about me, my business and my services. You can feel free to express your thoughts through the contacts.. Reviews on my Web Archives are welcomed";
 const aboutContent = "Am Aravs, An aspiring web developer.Interested in reactJs and expressJs.View some of my projects in Aravs2000(github-id)";
 const contactContent = "Contact me sekararavind5@gmail.com, Say hi to me in Aravind20002000--twitter ";
 const app = express();
